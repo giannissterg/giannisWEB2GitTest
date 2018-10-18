@@ -9,10 +9,10 @@
     padding-top: 30px;
 }
 
-#yellow-list {
-    background-color: yellow;
-}
-
 #underscore {
     text-decoration: underline;
+}
+
+#yellow-list {
+    background-color: yellow;
 }
